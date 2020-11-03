@@ -12,3 +12,7 @@ Cleaner Log for 100DaysOfCode
 - [12:45 - 14:00] [useState - Simple Use Case](https://github.com/fleuronvilik/react-advanced-2020/commit/f4ca2c4cbe20d307ee4ab39d03aa50aae026f51d), [useState - Basics](https://github.com/fleuronvilik/react-advanced-2020/commit/515f236088c8e5aed2284c1057cc7e73670d167a) and General Rules Of Hooks
 - [14:20 - 15:30] [use State - Array Example](https://github.com/fleuronvilik/react-advanced-2020/commit/c1b6a1ac150dcc0a71b71de85b2a21c102a2ac82)
 - [21:00 - 23:30] Start [working](https://surprise-check.glitch.me/html-css/) on [The News Time](https://btholt.github.io/intro-to-web-dev-v2/project-html-css)
+
+## :ok: Day 32: Nov. 03, 2020
+- [20-00 - 22:00] react-advanced: [useState - Object Example](https://github.com/fleuronvilik/react-advanced-2020/commit/392be56c6e9b71c7248d3ef161402b6448570f12), [Simple Counter](https://github.com/fleuronvilik/react-advanced-2020/commit/6933d826105bc6b6bd2f8f92509bc504d5767d53) and [Functional Update Form](https://github.com/fleuronvilik/react-advanced-2020/commit/c18a9fe86064a3d579fe7b1e2d6cb59cc79d0c41)
+- [22:00 - 23:00] Matching Project: [Birthday Reminder](http://birthday-reminder.glitch.me/)
