@@ -16,3 +16,8 @@ Cleaner Log for 100DaysOfCode
 ## :ok: Day 32: Nov. 03, 2020
 - [20-00 - 22:00] react-advanced: [useState - Object Example](https://github.com/fleuronvilik/react-advanced-2020/commit/392be56c6e9b71c7248d3ef161402b6448570f12), [Simple Counter](https://github.com/fleuronvilik/react-advanced-2020/commit/6933d826105bc6b6bd2f8f92509bc504d5767d53) and [Functional Update Form](https://github.com/fleuronvilik/react-advanced-2020/commit/c18a9fe86064a3d579fe7b1e2d6cb59cc79d0c41)
 - [22:00 - 23:00] Matching Project: [Birthday Reminder](http://birthday-reminder.glitch.me/)
+
+## :ok: Day 33: Nov. 04, 2020
+- [10:00 - 12:00] Use CSS Flexbox to make [The News Time](https://adjoining-pouncing-bull.glitch.me/) responsive
+- [13:30 - 14:30] react-advanced: [useEffect - Basics](https://github.com/fleuronvilik/react-advanced-2020/commit/fc804fc3b641ae502a34c5f9428772eb90db2f0b)
+- [22:00 - 23:00] frontend-pathway: [Images in HTML](https://github.com/fleuronvilik/frontend-pathway/commit/65fe61aa55d91c9c71ae27e5454012713eaea256)
