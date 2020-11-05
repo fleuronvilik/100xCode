@@ -21,3 +21,9 @@ Cleaner Log for 100DaysOfCode
 - [10:00 - 12:00] Use CSS Flexbox to make [The News Time](https://adjoining-pouncing-bull.glitch.me/) responsive
 - [13:30 - 14:30] react-advanced: [useEffect - Basics](https://github.com/fleuronvilik/react-advanced-2020/commit/fc804fc3b641ae502a34c5f9428772eb90db2f0b)
 - [22:00 - 23:00] frontend-pathway: [Images in HTML](https://github.com/fleuronvilik/frontend-pathway/commit/65fe61aa55d91c9c71ae27e5454012713eaea256)
+
+## :heavy_exclamation_mark: Day 34: Nov. 05, 2020
+- [22:50 - 23:30] frontend-pathway on MDN, [Video and Audio Content](https://github.com/fleuronvilik/frontend-pathway/commit/8ece8e2615a7de6af33d22904848aa82ae4abf74)
+  - [x] [Task 1](https://fleuronvilik.github.io/frontend-pathway/html/multimedia-and-embedding/tasks/media-embed/mediaembed1-download.html)
+  - [x] [Task 2](https://fleuronvilik.github.io/frontend-pathway/html/multimedia-and-embedding/tasks/media-embed/mediaembed2-download.html)
+
