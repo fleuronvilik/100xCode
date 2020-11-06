@@ -27,3 +27,5 @@ Cleaner Log for 100DaysOfCode
   - [x] [Task 1](https://fleuronvilik.github.io/frontend-pathway/html/multimedia-and-embedding/tasks/media-embed/mediaembed1-download.html)
   - [x] [Task 2](https://fleuronvilik.github.io/frontend-pathway/html/multimedia-and-embedding/tasks/media-embed/mediaembed2-download.html)
 
+## :heavy_exclamation_mark: Day 35: Nov. 06, 2020
+- [15:00 - 16:30] react-advanced: Keep watching the course covering topics from [useEffect - Fetch Data](https://github.com/fleuronvilik/react-advanced-2020/commit/f5bfb28b89c80f488337b5ea0f765b59ec1d28a5) to [Show/Hide Component](https://github.com/fleuronvilik/react-advanced-2020/commit/c21d2a8de6b3bfbd24de5f4310ee422bdc39d652)
