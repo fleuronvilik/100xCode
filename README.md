@@ -29,3 +29,7 @@ Cleaner Log for 100DaysOfCode
 
 ## :heavy_exclamation_mark: Day 35: Nov. 06, 2020
 - [15:00 - 16:30] react-advanced: Keep watching the course covering topics from [useEffect - Fetch Data](https://github.com/fleuronvilik/react-advanced-2020/commit/f5bfb28b89c80f488337b5ea0f765b59ec1d28a5) to [Show/Hide Component](https://github.com/fleuronvilik/react-advanced-2020/commit/c21d2a8de6b3bfbd24de5f4310ee422bdc39d652)
+
+## :ok: Day 36: Nov. 07, 2020
+- [00:00 - 01-50] Start working alone on Tour Project locally for react-advanced
+- [22:00 - 23:00] frontend-pathway on MDN, [other embedding technologies](https://github.com/fleuronvilik/frontend-pathway/commit/e73368a70ecd97f6cc90ea5a0cac39a7d4f3f714#diff-3fc37a163eb07d22d82350f31831e1b9ed454b4cbfecb579c9913538264290e4) and [Task 3](https://fleuronvilik.github.io/frontend-pathway/html/multimedia-and-embedding/tasks/media-embed/mediaembed3-download.html)
