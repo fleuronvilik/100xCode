@@ -33,3 +33,11 @@ Cleaner Log for 100DaysOfCode
 ## :ok: Day 36: Nov. 07, 2020
 - [00:00 - 01-50] Start working alone on Tour Project locally for react-advanced
 - [22:00 - 23:00] frontend-pathway on MDN, [other embedding technologies](https://github.com/fleuronvilik/frontend-pathway/commit/e73368a70ecd97f6cc90ea5a0cac39a7d4f3f714#diff-3fc37a163eb07d22d82350f31831e1b9ed454b4cbfecb579c9913538264290e4) and [Task 3](https://fleuronvilik.github.io/frontend-pathway/html/multimedia-and-embedding/tasks/media-embed/mediaembed3-download.html)
+
+## :heavy_exclamation_mark: Day 37: Nov. 08, 2020
+- [21:00 - 23:00] react-advanced
+  - [x] [Form Basics](https://github.com/fleuronvilik/react-advanced-2020/commit/a2077296aee16127b4e504c667e258586c13ad15)
+  - [x] [Controlled Inputs](https://github.com/fleuronvilik/react-advanced-2020/commit/a2077296aee16127b4e504c667e258586c13ad15)
+  - [x] [Add Item to the List](https://github.com/fleuronvilik/react-advanced-2020/commit/730323d94dfcd4793ede7c7cf2607e775baba770)
+
+
