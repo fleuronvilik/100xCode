@@ -40,4 +40,7 @@ Cleaner Log for 100DaysOfCode
   - [x] [Controlled Inputs](https://github.com/fleuronvilik/react-advanced-2020/commit/a2077296aee16127b4e504c667e258586c13ad15)
   - [x] [Add Item to the List](https://github.com/fleuronvilik/react-advanced-2020/commit/730323d94dfcd4793ede7c7cf2607e775baba770)
 
-
+## :ok: Day 38: Nov. 09, 2020
+- [18:30 - 21:00]
+  - [x] Deploy [tours-project](https://fleuronvilik.github.io/tours-project/)
+  - [x] Deploy [reviews-project](https://fleuronvilik.github.io/reviews-project/)
