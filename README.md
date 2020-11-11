@@ -44,3 +44,9 @@ Cleaner Log for 100DaysOfCode
 - [18:30 - 21:00]
   - [x] Deploy [tours-project](https://fleuronvilik.github.io/tours-project/)
   - [x] Deploy [reviews-project](https://fleuronvilik.github.io/reviews-project/)
+
+## :heavy_exclamation_mark: Day 39: Nov. 10, 2020 <!-- Consume too much instead of practice -->
+- [07:30 - 09:30] Continued watching intro to web dev and covered
+  - [x] [Functions and Scope](https://btholt.github.io/intro-to-web-dev-v2/functions-and-scope)
+  - [x] [Objects and Arrays](https://btholt.github.io/intro-to-web-dev-v2/objects-and-arrays)
+- [23:00 - 00:00] Read [Adding vector graphics to the web](https://developer.mozilla.org/en-US/docs/Learn/HTML/Multimedia_and_embedding/Adding_vector_graphics_to_the_Web)
