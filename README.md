@@ -50,3 +50,10 @@ Cleaner Log for 100DaysOfCode
   - [x] [Functions and Scope](https://btholt.github.io/intro-to-web-dev-v2/functions-and-scope)
   - [x] [Objects and Arrays](https://btholt.github.io/intro-to-web-dev-v2/objects-and-arrays)
 - [23:00 - 00:00] Read [Adding vector graphics to the web](https://developer.mozilla.org/en-US/docs/Learn/HTML/Multimedia_and_embedding/Adding_vector_graphics_to_the_Web)
+
+## :ok: Day 40: Nov. 11, 2020
+- [00:00 - 02:00] react-advanced
+  - [x] [useReducer - useState Setup](https://github.com/fleuronvilik/react-advanced-2020/commit/0a773d694bd4ea213871541805bdfe0fef8b5adb)
+  - [x] [useReducer - Refactor](https://github.com/fleuronvilik/react-advanced-2020/commit/5a6a52747190263b1231e7a13eb441db4060cfa8)
+  - [x] [useReducer - Add Item](https://github.com/fleuronvilik/react-advanced-2020/commit/3cde104acad66691a4c93fb5fde2b7c082bd848d)
+  - [x] [useReducer - Remove Item](https://github.com/fleuronvilik/react-advanced-2020/commit/0a95c7c29b83c4a921226602db03d2784061992e)
