@@ -57,3 +57,13 @@ Cleaner Log for 100DaysOfCode
   - [x] [useReducer - Refactor](https://github.com/fleuronvilik/react-advanced-2020/commit/5a6a52747190263b1231e7a13eb441db4060cfa8)
   - [x] [useReducer - Add Item](https://github.com/fleuronvilik/react-advanced-2020/commit/3cde104acad66691a4c93fb5fde2b7c082bd848d)
   - [x] [useReducer - Remove Item](https://github.com/fleuronvilik/react-advanced-2020/commit/0a95c7c29b83c4a921226602db03d2784061992e)
+
+## :ok: Day 41: Nov. 12, 2020
+- [19:00 - 00:00] with breaks
+- Continued intro-web-dev with [the DOM](https://btholt.github.io/intro-to-web-dev-v2/dom)
+- Started [fem-layout](https://github.com/fleuronvilik/fem-layout) and completed
+  - [x] Introduction and Setup
+  - [x] [Floats](https://github.com/fleuronvilik/fem-layout/commit/e4c98f6511826ebd9ae98da11fd016072624fda7)
+  - [x] Flexbox, play and complete http://flexboxfroggy.com/
+  - [x] [Flexbox Grid](https://github.com/fleuronvilik/fem-layout/commit/f5d167e91e5b8a6900f3f2766614ebc5407b213a)
+
