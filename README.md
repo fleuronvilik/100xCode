@@ -67,3 +67,5 @@ Cleaner Log for 100DaysOfCode
   - [x] Flexbox, play and complete http://flexboxfroggy.com/
   - [x] [Flexbox Grid](https://github.com/fleuronvilik/fem-layout/commit/f5d167e91e5b8a6900f3f2766614ebc5407b213a)
 
+## :ok: Day 42: Nov. 13, 2020
+- [19:30 - 23:00] [Flexbox Exercises](https://github.com/fleuronvilik/fem-layout/commit/4b20fec6136ae95eaf2d23adc33b6f49b2980825) of fem-layout
