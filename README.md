@@ -73,3 +73,7 @@ Cleaner Log for 100DaysOfCode
 ## :ok: Day 43: Nov. 14, 2020
 - [01:00 - 03:00] Start working on [cart-use-reducer](https://capricious-wholesale-lute.glitch.me/) and get it to work with some "hard coded state values"
 - [22:00 - 00:00] Work on the View for the intro to web dev's js-calculator
+
+## :ok: Day 44: Nov. 15, 2020
+- [01:00 - 03:00] Work on the Logic for the intro to web dev's js-calculator
+- [21-00 - 23:00] Complete [cart-use-reducer](https://capricious-wholesale-lute.glitch.me/), fem-layout:Responsive Images, intro-web-dev:ajax
