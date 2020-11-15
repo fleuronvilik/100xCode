@@ -69,3 +69,7 @@ Cleaner Log for 100DaysOfCode
 
 ## :ok: Day 42: Nov. 13, 2020
 - [19:30 - 23:00] [Flexbox Exercises](https://github.com/fleuronvilik/fem-layout/commit/4b20fec6136ae95eaf2d23adc33b6f49b2980825) of fem-layout
+
+## :ok: Day 43: Nov. 14, 2020
+- [01:00 - 03:00] Start working on [cart-use-reducer](https://capricious-wholesale-lute.glitch.me/) and get it to work with some "hard coded state values"
+- [22:00 - 00:00] Work on the View for the intro to web dev's js-calculator
