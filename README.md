@@ -77,3 +77,6 @@ Cleaner Log for 100DaysOfCode
 ## :ok: Day 44: Nov. 15, 2020
 - [01:00 - 03:00] Work on the Logic for the intro to web dev's js-calculator
 - [21-00 - 23:00] Complete [cart-use-reducer](https://capricious-wholesale-lute.glitch.me/), fem-layout:Responsive Images, intro-web-dev:ajax
+
+## :ok: Day 45: Nov. 16, 2020
+- [19:45 - 22:00] Started fem-layout:css-grid and completed the [2nd Mondrian painting challenge](https://github.com/fleuronvilik/fem-layout/commit/354f3b6db29054742dc993d65c3d317b13171b31)
