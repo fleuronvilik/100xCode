@@ -90,3 +90,7 @@ Cleaner Log for 100DaysOfCode
 
 ## :ok: Day 48: Nov. 19, 2020
 - [fem-layout](https://github.com/fleuronvilik/fem-layout/commits?author=fleuronvilik&since=2020-11-19&until=2020-11-19) Completed - https://twitter.com/FGnadekpa/status/1329529616260849667
+
+## :ok: Day 49: Nov. 20, 2020
+- [17:30 - 19-15] Mooc Pharo 1-1 to 1-6
+- [19:30 - 20:30] [Started, completed](https://github.com/fleuronvilik/accordion-faq/commits/master) and [published accordion-faq](https://fleuronvilik.github.io/accordion-faq/)
