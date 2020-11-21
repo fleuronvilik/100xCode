@@ -80,3 +80,7 @@ Cleaner Log for 100DaysOfCode
 
 ## :ok: Day 45: Nov. 16, 2020
 - [19:45 - 22:00] Started fem-layout:css-grid and completed the [2nd Mondrian painting challenge](https://github.com/fleuronvilik/fem-layout/commit/354f3b6db29054742dc993d65c3d317b13171b31)
+
+## :ok: Day 46: Nov. 17, 2020
+- [react-advanced-2020](https://github.com/fleuronvilik/react-advanced-2020/commits?author=fleuronvilik&since=2020-11-16&until=2020-11-17) Completed [Custom Hooks - useFetch](https://github.com/fleuronvilik/react-advanced-2020/commit/1c3dc23c6309ff16f85967cd524c4bfed412d9a8) & [PropTypes](https://github.com/fleuronvilik/react-advanced-2020/commit/f3b979d1a89947c0640224b635cb31696129b87e)
+- [cart-use-reducer](https://github.com/fleuronvilik/cart-use-reducer/commits?author=fleuronvilik&since=2020-11-17&until=2020-11-17) [Published build](https://capricious-wholesale-lute.glitch.me/) 
