@@ -87,3 +87,6 @@ Cleaner Log for 100DaysOfCode
 
 ## :ok: Day 47: Nov. 18, 2020
 - [fem-layout](https://github.com/fleuronvilik/fem-layout/commit/f309a1f963e544b3ae4d850db4259b6a1ed0a2f3) CSS Grid: Practical Application on the example pie site coded earlier with Floats, then Flexbox 
+
+## :ok: Day 48: Nov. 19, 2020
+- [fem-layout](https://github.com/fleuronvilik/fem-layout/commits?author=fleuronvilik&since=2020-11-19&until=2020-11-19) Completed - https://twitter.com/FGnadekpa/status/1329529616260849667
