@@ -84,3 +84,6 @@ Cleaner Log for 100DaysOfCode
 ## :ok: Day 46: Nov. 17, 2020
 - [react-advanced-2020](https://github.com/fleuronvilik/react-advanced-2020/commits?author=fleuronvilik&since=2020-11-16&until=2020-11-17) Completed [Custom Hooks - useFetch](https://github.com/fleuronvilik/react-advanced-2020/commit/1c3dc23c6309ff16f85967cd524c4bfed412d9a8) & [PropTypes](https://github.com/fleuronvilik/react-advanced-2020/commit/f3b979d1a89947c0640224b635cb31696129b87e)
 - [cart-use-reducer](https://github.com/fleuronvilik/cart-use-reducer/commits?author=fleuronvilik&since=2020-11-17&until=2020-11-17) [Published build](https://capricious-wholesale-lute.glitch.me/) 
+
+## :ok: Day 47: Nov. 18, 2020
+- [fem-layout](https://github.com/fleuronvilik/fem-layout/commit/f309a1f963e544b3ae4d850db4259b6a1ed0a2f3) CSS Grid: Practical Application on the example pie site coded earlier with Floats, then Flexbox 
