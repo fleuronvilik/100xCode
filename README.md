@@ -94,3 +94,6 @@ Cleaner Log for 100DaysOfCode
 ## :ok: Day 49: Nov. 20, 2020
 - [17:30 - 19-15] Mooc Pharo 1-1 to 1-6
 - [19:30 - 20:30] [Started, completed](https://github.com/fleuronvilik/accordion-faq/commits/master) and [published accordion-faq](https://fleuronvilik.github.io/accordion-faq/)
+
+## :ok: Day 50: Nov. 21, 2020
+- [16:00 - 17:30] [Started, completed](https://github.com/fleuronvilik/golden-menu/commits/master) and [published golden-menu](https://fleuronvilik.github.io/golden-menu/)
