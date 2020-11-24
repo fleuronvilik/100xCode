@@ -97,3 +97,10 @@ Cleaner Log for 100DaysOfCode
 
 ## :ok: Day 50: Nov. 21, 2020
 - [16:00 - 17:30] [Started, completed](https://github.com/fleuronvilik/golden-menu/commits/master) and [published golden-menu](https://fleuronvilik.github.io/golden-menu/)
+
+## :x: Day 51: Nov. 22, 2020
+- [23:00 - 00:00] Published some exercises of [fem-layout](https://github.com/fleuronvilik/fem-layout/commits?author=fleuronvilik&since=2020-11-22&until=2020-11-22) with gh-pages
+  - https://fleuronvilik.github.io/fem-layout/1-intro-floats/
+  - https://fleuronvilik.github.io/fem-layout/3-flexbox-grid/
+  - https://fleuronvilik.github.io/fem-layout/10-mondrian-you-try-it/
+  - https://fleuronvilik.github.io/fem-layout/11-grid-grid/
