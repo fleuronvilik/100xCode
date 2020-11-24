@@ -104,3 +104,7 @@ Cleaner Log for 100DaysOfCode
   - https://fleuronvilik.github.io/fem-layout/3-flexbox-grid/
   - https://fleuronvilik.github.io/fem-layout/10-mondrian-you-try-it/
   - https://fleuronvilik.github.io/fem-layout/11-grid-grid/
+
+## :heavy_check_mark: Day 52: Nov. 23, 2020
+- [00:00 - 03:00] Mooc Pharo 1-7(Lives) and 1-8(Redos)
+- [21:00 - 23:00] [Started, completed](https://github.com/fleuronvilik/experience-tabs/commits?author=fleuronvilik&since=2020-11-22&until=2020-11-23) and [published experience-tabs](https://fleuronvilik.github.io/experience-tabs/)
