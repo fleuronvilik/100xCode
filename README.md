@@ -108,3 +108,7 @@ Cleaner Log for 100DaysOfCode
 ## :heavy_check_mark: Day 52: Nov. 23, 2020
 - [00:00 - 03:00] Mooc Pharo 1-7(Lives) and 1-8(Redos)
 - [21:00 - 23:00] [Started, completed](https://github.com/fleuronvilik/experience-tabs/commits?author=fleuronvilik&since=2020-11-22&until=2020-11-23) and [published experience-tabs](https://fleuronvilik.github.io/experience-tabs/)
+
+## :ok: Day 53: Nov. 25, 2020
+- [05:00 - 07:00] Started and Completed [custom-lipsum-generator](https://github.com/fleuronvilik/custom-lipsum-generator)
+- [23:00 - 23:30] Published https://fleuronvilik.github.io/custom-lipsum-generator/
