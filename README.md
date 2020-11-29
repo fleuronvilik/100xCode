@@ -112,3 +112,6 @@ Cleaner Log for 100DaysOfCode
 ## :ok: Day 53: Nov. 25, 2020
 - [05:00 - 07:00] Started and Completed [custom-lipsum-generator](https://github.com/fleuronvilik/custom-lipsum-generator)
 - [23:00 - 23:30] Published https://fleuronvilik.github.io/custom-lipsum-generator/
+
+## :heavy_exclamation_mark: Day 54: Nov. 26, 2020
+- [22:00 - 00:00] Mooc Pharo 1-10(Guided Exercises, TILBlog)
