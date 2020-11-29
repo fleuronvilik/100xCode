@@ -115,3 +115,6 @@ Cleaner Log for 100DaysOfCode
 
 ## :heavy_exclamation_mark: Day 54: Nov. 26, 2020
 - [22:00 - 00:00] Mooc Pharo 1-10(Guided Exercises, TILBlog)
+
+## :ok: Day 55: Nov. 27, 2020
+- [21:30 - 22:30] Add Loading and Empty States to https://fleuronvilik.github.io/tours-project/
