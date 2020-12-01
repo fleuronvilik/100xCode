@@ -118,3 +118,7 @@ Cleaner Log for 100DaysOfCode
 
 ## :ok: Day 55: Nov. 27, 2020
 - [21:30 - 22:30] Add Loading and Empty States to https://fleuronvilik.github.io/tours-project/
+
+## :heavy_check_mark: Day 56: Nov. 28, 2020
+- [07:00 - 10:00] [Started, completed](https://github.com/fleuronvilik/sidebar-and-modal/commits/master) and [published sidebar-and-modal](https://fleuronvilik.github.io/sidebar-and-modal/)
+
