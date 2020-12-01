@@ -122,3 +122,5 @@ Cleaner Log for 100DaysOfCode
 ## :heavy_check_mark: Day 56: Nov. 28, 2020
 - [07:00 - 10:00] [Started, completed](https://github.com/fleuronvilik/sidebar-and-modal/commits/master) and [published sidebar-and-modal](https://fleuronvilik.github.io/sidebar-and-modal/)
 
+## :ok: Day 57: Nov. 29, 2020
+- Started working on stripe-submenus locally
