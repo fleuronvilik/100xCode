@@ -124,3 +124,7 @@ Cleaner Log for 100DaysOfCode
 
 ## :ok: Day 57: Nov. 29, 2020
 - Started working on stripe-submenus locally
+
+## :heavy_exclamation_mark: Day 58: Nov. 30, 2020
+- Started fem-gatsby-intro
+
