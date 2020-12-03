@@ -126,5 +126,11 @@ Cleaner Log for 100DaysOfCode
 - Started working on stripe-submenus locally
 
 ## :heavy_exclamation_mark: Day 58: Nov. 30, 2020
-- Started fem-gatsby-intro
+- Started [fem-gatsby-intro](https://github.com/fleuronvilik/fem-gatsby-intro)
+- Completed [Step 0: Pages & Links](https://github.com/fleuronvilik/fem-gatsby-intro/commits?author=fleuronvilik&since=2020-11-29&until=2020-11-30)
+
+## :ok: Day 59: Dec. 1, 2020
+- Completed [Steps 1 & 2](https://github.com/fleuronvilik/fem-gatsby-intro/commits?author=fleuronvilik&since=2020-12-01&until=2020-12-01) in [fem-gatsby-intro](https://github.com/fleuronvilik/fem-gatsby-intro)
+  1. Styles / Layout
+  2. GraphQL & SEO / React Helmet
 
