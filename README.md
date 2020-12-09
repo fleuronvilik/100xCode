@@ -139,3 +139,6 @@ Cleaner Log for 100DaysOfCode
 
 ## :ok: Day 61: Dec. 3 2020
 - Completed [Step 4: MDX Blog](https://github.com/fleuronvilik/fem-gatsby-intro/commits?author=fleuronvilik&since=2020-12-03&until=2020-12-03)
+
+## :ok: Day 62: Dec. 4 2020
+- Completed [Step 5: Hero Image](https://github.com/fleuronvilik/fem-gatsby-intro/commits?author=fleuronvilik&since=2020-12-04&until=2020-12-04)
