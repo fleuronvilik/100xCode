@@ -163,3 +163,16 @@ Cleaner Log for 100DaysOfCode
 
 ## :ok: Day 67: Dec. 9, 2020
 3. Gatsby official tutorial: Building nested layouts in Gatsby
+
+## :ok: Day 68: Dec. 10, 2020
+<details>
+  <summary><a href="https://github.com/fleuronvilik/frontend-pathway/commits?author=fleuronvilik&since=2020-12-08&until=2020-12-09">frontend-pathway</a></summary>
+  
+  - Handling different text directions
+      - https://fleuronvilik.github.io/frontend-pathway/css/examples/learn/tasks/writing-modes/writing-mode.html
+      - https://fleuronvilik.github.io/frontend-pathway/css/examples/learn/tasks/writing-modes/logical-width-height.html
+      - https://fleuronvilik.github.io/frontend-pathway/css/examples/learn/tasks/writing-modes/logical-mbp.html
+  - Overflowing Content
+      - https://fleuronvilik.github.io/frontend-pathway/css/examples/learn/tasks/overflow/overflow-scroll.html
+      - https://fleuronvilik.github.io/frontend-pathway/css/examples/learn/tasks/overflow/overflow-hidden.html
+</details>
