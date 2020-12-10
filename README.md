@@ -145,3 +145,9 @@ Cleaner Log for 100DaysOfCode
 
 ## :ok: Day 63: Dec. 5, 2020
 - Completed [Step 6: Blog Images](https://github.com/fleuronvilik/fem-gatsby-intro/commits?author=fleuronvilik&since=2020-12-05&until=2020-12-05)
+
+## :ok: Day 64: Dec. 6, 2020
+- Completed [Steps 7 and 8](https://github.com/fleuronvilik/fem-gatsby-intro/commits?author=fleuronvilik&since=2020-12-06&until=2020-12-06)
+  - Source Plugins with Instagram Datasource
+  - Analyze Bundle
+- https://fem-intro-gatsby.netlify.app/
