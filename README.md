@@ -155,8 +155,11 @@ Cleaner Log for 100DaysOfCode
 ## :ok: Day 65: Dec. 7, 2020
 - Started Introduction to Node on Frontend Masters
 - Gatsby official tutorial
-  1. Set up your development environment
-  2. Get to know Gatsby building blocks
+  0. Set up your development environment
+  1. Get to know Gatsby building blocks
 
 ## :ok: Day 66: Dec. 8, 2020
-3. Gatsby official tutorial: Introduction to using CSS in Gatsby
+2. Gatsby official tutorial: Introduction to using CSS in Gatsby
+
+## :ok: Day 67: Dec. 9, 2020
+3. Gatsby official tutorial: Building nested layouts in Gatsby
