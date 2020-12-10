@@ -157,3 +157,6 @@ Cleaner Log for 100DaysOfCode
 - Gatsby official tutorial
   1. Set up your development environment
   2. Get to know Gatsby building blocks
+
+## :ok: Day 66: Dec. 8, 2020
+3. Gatsby official tutorial: Introduction to using CSS in Gatsby
