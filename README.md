@@ -151,3 +151,9 @@ Cleaner Log for 100DaysOfCode
   - Source Plugins with Instagram Datasource
   - Analyze Bundle
 - https://fem-intro-gatsby.netlify.app/
+
+## :ok: Day 65: Dec. 7, 2020
+- Started Introduction to Node on Frontend Masters
+- Gatsby official tutorial
+  1. Set up your development environment
+  2. Get to know Gatsby building blocks
