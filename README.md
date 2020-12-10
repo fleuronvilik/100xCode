@@ -134,11 +134,14 @@ Cleaner Log for 100DaysOfCode
   1. Styles / Layout
   2. GraphQL & SEO / React Helmet
 
-## :ok: Day 60: Dec. 2 2020
+## :ok: Day 60: Dec. 2, 2020
 - [Completed Step 3: MDX and Started 4. MDX Blog](https://github.com/fleuronvilik/fem-gatsby-intro/commits?author=fleuronvilik&since=2020-12-02&until=2020-12-02)
 
-## :ok: Day 61: Dec. 3 2020
+## :ok: Day 61: Dec. 3, 2020
 - Completed [Step 4: MDX Blog](https://github.com/fleuronvilik/fem-gatsby-intro/commits?author=fleuronvilik&since=2020-12-03&until=2020-12-03)
 
-## :ok: Day 62: Dec. 4 2020
+## :ok: Day 62: Dec. 4, 2020
 - Completed [Step 5: Hero Image](https://github.com/fleuronvilik/fem-gatsby-intro/commits?author=fleuronvilik&since=2020-12-04&until=2020-12-04)
+
+## :ok: Day 63: Dec. 5, 2020
+- Completed [Step 6: Blog Images](https://github.com/fleuronvilik/fem-gatsby-intro/commits?author=fleuronvilik&since=2020-12-05&until=2020-12-05)
