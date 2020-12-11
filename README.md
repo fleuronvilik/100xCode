@@ -176,3 +176,10 @@ Cleaner Log for 100DaysOfCode
       - https://fleuronvilik.github.io/frontend-pathway/css/examples/learn/tasks/overflow/overflow-scroll.html
       - https://fleuronvilik.github.io/frontend-pathway/css/examples/learn/tasks/overflow/overflow-hidden.html
 </details>
+
+## :heavy_check_mark: Day 69: Dec. 11, 2020
+- [09:30 - 11:00] Started turning [pie-in-the-skyscraper-bakery](https://github.com/fleuronvilik/pie-in-the-sky-bakery) into a Gatsby site
+- Completed Internal Modules & npm in Introduction to Node.js
+
+4. Gatsby official tutorial: Data in Gatsby
+5. Gatsby official tutorial: Source plugins and rendering queried data
