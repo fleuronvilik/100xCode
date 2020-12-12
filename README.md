@@ -183,3 +183,9 @@ Cleaner Log for 100DaysOfCode
 
 4. Gatsby official tutorial: Data in Gatsby
 5. Gatsby official tutorial: Source plugins and rendering queried data
+
+## :ok: Day 70: Dec. 12, 2020
+- [21:30 - 00:00] Gatsby official tutorial
+
+6. Transformer Plugins
+7. Programmatically Create Pages from Data
