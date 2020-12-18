@@ -189,3 +189,6 @@ Cleaner Log for 100DaysOfCode
 
 6. Transformer Plugins
 7. Programmatically Create Pages from Data
+
+## :ok: Day 72: Dec. 14, 2020
+8. Gatsby official tutorial: [Completed](https://github.com/fleuronvilik/gatsby-official-tutorial/commit/1402c1d7ca2e05d16fe78bacf9b071fcc59b12a1) and [Live](https://pandas-eating-lots.netlify.app/) 
