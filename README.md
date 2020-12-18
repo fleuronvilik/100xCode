@@ -192,3 +192,6 @@ Cleaner Log for 100DaysOfCode
 
 ## :ok: Day 72: Dec. 14, 2020
 8. Gatsby official tutorial: [Completed](https://github.com/fleuronvilik/gatsby-official-tutorial/commit/1402c1d7ca2e05d16fe78bacf9b071fcc59b12a1) and [Live](https://pandas-eating-lots.netlify.app/) 
+
+## :heavy_exclamation_mark: Day 74: Dec. 16, 2020
+- [frontend-pathway](https://github.com/fleuronvilik/frontend-pathway/commits?author=fleuronvilik&since=2020-12-15&until=2020-12-16): CSS Values and Units
