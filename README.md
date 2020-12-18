@@ -195,3 +195,7 @@ Cleaner Log for 100DaysOfCode
 
 ## :heavy_exclamation_mark: Day 74: Dec. 16, 2020
 - [frontend-pathway](https://github.com/fleuronvilik/frontend-pathway/commits?author=fleuronvilik&since=2020-12-15&until=2020-12-16): CSS Values and Units
+
+## :heavy_check_mark: Day 75: Dec. 17, 2020
+- js-hard-parts-v2 from Intro to Async
+- Add Menu and Catering pages to [pie-in-the-sky-bakery](https://github.com/fleuronvilik/pie-in-the-sky-bakery/commits?author=fleuronvilik&since=2020-12-16&until=2020-12-17)
