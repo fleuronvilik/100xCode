@@ -199,3 +199,6 @@ Cleaner Log for 100DaysOfCode
 ## :heavy_check_mark: Day 75: Dec. 17, 2020
 - js-hard-parts-v2 from Intro to Async
 - Add Menu and Catering pages to [pie-in-the-sky-bakery](https://github.com/fleuronvilik/pie-in-the-sky-bakery/commits?author=fleuronvilik&since=2020-12-16&until=2020-12-17)
+
+## :ok: Day 76: Dec. 18, 2020
+- Exercises js-hard-parts-v2
