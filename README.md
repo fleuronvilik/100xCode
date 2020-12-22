@@ -203,6 +203,9 @@ Cleaner Log for 100DaysOfCode
 ## :ok: Day 76: Dec. 18, 2020
 - Exercises js-hard-parts-v2
 
-## :ok: Day 77: Dec. 19 2020
+## :ok: Day 77: Dec. 19, 2020
 - [frontend-pathway](https://github.com/fleuronvilik/frontend-pathway/commits?author=fleuronvilik&since=2020-12-18&until=2020-12-19): Sizing Items in CSS
 - js-hard-parts-v2/Promises
+
+## :ok: Day 78: Dec. 20, 2020
+- Started [Grocery Bud](https://github.com/fleuronvilik/grocery-bud)
