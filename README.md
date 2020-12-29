@@ -209,3 +209,6 @@ Cleaner Log for 100DaysOfCode
 
 ## :ok: Day 78: Dec. 20, 2020
 - Started [Grocery Bud](https://github.com/fleuronvilik/grocery-bud)
+
+## :ok: Day 81: Dec. 23, 2020
+- Completed js-hard-parts-v2
