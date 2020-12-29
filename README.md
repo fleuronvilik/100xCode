@@ -212,3 +212,6 @@ Cleaner Log for 100DaysOfCode
 
 ## :ok: Day 81: Dec. 23, 2020
 - Completed js-hard-parts-v2
+
+## :ok: Day 82: Dec. 24, 2020
+- Completed [oop exercises](http://csbin.io/oop)
